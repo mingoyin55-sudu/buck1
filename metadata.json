@@ -1,0 +1,5 @@
+{
+  "name": "Buck Converter Designer",
+  "description": "A professional tool for calculating Buck converter energy losses, efficiency, and visualizing inductor current waveforms (CCM/DCM) with AI-powered design analysis.",
+  "requestFramePermissions": []
+}
